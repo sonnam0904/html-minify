@@ -1,0 +1,24 @@
+{
+    "name": "sonnn/html-minify",
+    "description": "Minifies the HTML output of Laravel applications",
+    "homepage": "https://github.com/sonnn/html-minify",
+    "license": "",
+    "authors": [
+        {
+            "name": "sonnn",
+            "email": "sonnn.uct@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "4.x"
+    },
+    "require-dev": {
+        "mockery/mockery": "dev-master",
+        "phpunit/phpunit": "3.7.*",
+    },
+    "autoload": {
+        "psr-0": {
+            "Sonnn\\HtmlMinify": "src/"
+        }
+    }
+}
