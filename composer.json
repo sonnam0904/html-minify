@@ -13,8 +13,7 @@
         "illuminate/view": "4.x"
     },
     "require-dev": {
-        "mockery/mockery": "dev-master",
-        "phpunit/phpunit": "3.7.*",
+        "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
         "psr-4": {"Sonnn\\HtmlMinify\\": "src/"}
