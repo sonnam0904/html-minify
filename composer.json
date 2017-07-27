@@ -17,8 +17,6 @@
         "phpunit/phpunit": "3.7.*",
     },
     "autoload": {
-        "psr-0": {
-            "Sonnn\\HtmlMinify": "src/"
-        }
+        "psr-4": {"Sonnn\\HtmlMinify\\": "src/"}
     }
 }
