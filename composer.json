@@ -17,5 +17,6 @@
     },
     "autoload": {
         "psr-4": {"Sonnn\\HtmlMinify\\": "src/"}
-    }
+    },
+	"minimum-stability": "stable"
 }
